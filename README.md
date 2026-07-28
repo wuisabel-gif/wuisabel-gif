@@ -1,18 +1,24 @@
 # Hi, I'm Isabella 👋
 
-Most of what I build starts as a problem in my own life. Lately that's been improving the performance of AI agents. That's why I have been buildling **an ecosystem for better AI** — three tools, one objective: *Less memory wasted, less time wasted, less energy wasted.*
+Most of what I build starts as a problem in my own life. The fix is usually more interesting than the problem, and that's how the list got this long.
 
-🐋 **[MemWhale](https://github.com/wuisabel-gif/MemWhale)** — a local-first terminal memory system that remembers everything you put in.
+🐋 **[MemWhale](https://github.com/wuisabel-gif/MemWhale)**. My coding agents kept forgetting what they'd already learned, so I built a local-first terminal memory system that records everything you put in and serves it back over MCP.
 
-🐬 **[Delphin](https://github.com/wuisabel-gif/Delphin)** — a duplex companion for AI agent CLIs: talk and listen at the same time.
+🎵 **[Cadence](https://github.com/wuisabel-gif/Cadence)**. AI writing has a tell, so I built a tool that catches it and rewrites the draft to sound like a person. Runs in Claude Code, Codex, Gemini, DeepSeek, the browser, and the command line. It also trains its own humanizer: **LoRA-Cadence**, a rank-16 QLoRA on Qwen2.5-3B-Instruct, graded by Cadence's own slop detector.
 
-⚡ **[Joule](https://github.com/wuisabel-gif/Joule)** —  middleware that helps AI agents waste less: fewer unnecessary tokens, less energy per response, and lower carbon emissions.
+🎬 **[Real](https://github.com/wuisabel-gif/Real)**. Veo 3 kept ignoring half of what I asked for, so I built a tool that assembles video prompts from ones that worked before and holds the output to what I actually specified.
 
-**Other ongoing projects**
+📡 **[WireDAQ](https://github.com/wuisabel-gif/WireDAQ)**. You shouldn't need the hardware to start, so I built a data-acquisition simulator: test the packet protocols and ground-station tooling first, then swap in real hardware when it's ready. Python and C share the codecs.
 
-🌊 Building localization, estimation, and mission planning systems for [**Barracuda 2.0**](https://drive.google.com/file/d/1BrcK6pGdd4CBl9zglACMc6I8wHD-CQNz/view), an autonomous underwater vehicle with my teammates at [**USC AUV**](https://uscfrl.com). 
+🎻 **[BowTrack](https://github.com/wuisabel-gif/BowTrack)**. To fix my own cello bowing, I built a computer-vision tool that reads bowing motion, posture, and early technique signals with OpenCV and MediaPipe.
 
-🎵 Recently Built [**Cadence**](https://github.com/wuisabel-gif/Cadence) — a free writing tool that catches the AI tone in a draft and rewrites it to sound like a person. Now available in Claude Code, Codex, Gemini, DeepSeek, the browser, and the command line.
+**Also ongoing**
+
+🌊 Localization, estimation, and mission planning for [**Barracuda 2.0**](https://drive.google.com/file/d/1BrcK6pGdd4CBl9zglACMc6I8wHD-CQNz/view), an autonomous underwater vehicle, with my teammates at [**USC AUV**](https://uscfrl.com).
+
+🚀 Embedded data acquisition, sensor drivers, and high-speed telemetry for rocket testing with my teammates at [**USC Rocket Propulsion Laboratory**](https://www.uscrpl.com/).
+
+🤝 I contribute to the tools I use. I'm a consistent contributor to open-source Rust agent harnesses like [**rho**](https://github.com/matthewyjiang/rho) and [**CodeWhale**](https://github.com/Hmbown/CodeWhale), and I've merged security fixes into [**Jan**](https://github.com/janhq/jan) and [**LocalAI**](https://github.com/mudler/LocalAI).
 
 📚 More:
 - [**Convictions**](CONVICTIONS.md)
