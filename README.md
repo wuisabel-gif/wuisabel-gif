@@ -20,6 +20,8 @@ Most of what I build starts as a problem in my own life. The fix is usually more
 
 🚀 Embedded data acquisition, sensor drivers, and high-speed telemetry for rocket testing with my teammates at [**USC Rocket Propulsion Laboratory**](https://www.uscrpl.com/).
 
+🔌 I’m an electronics hobbyist and currently assist with USC’s [**TAC 348: Smart Devices and Wearables**](https://reparke.github.io/TAC348-Making-Smart-Devices/), helping students work through embedded hardware, sensors, circuits, and connected-device projects.
+
 🤝 I contribute to the tools I use. I'm a consistent contributor to open-source Rust agent harnesses like [**rho**](https://github.com/matthewyjiang/rho) and [**CodeWhale**](https://github.com/Hmbown/CodeWhale), and I've merged security fixes into [**Jan**](https://github.com/janhq/jan) and [**LocalAI**](https://github.com/mudler/LocalAI).
 
 📚 More:
