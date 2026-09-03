@@ -10,15 +10,13 @@ Most of what I build starts as a problem in my own life. The fix is usually more
 
 📡 **[WireDAQ](https://github.com/wuisabel-gif/WireDAQ)**. You shouldn't need the hardware to start, so I built a data-acquisition simulator: test the packet protocols and ground-station tooling first, then swap in real hardware when it's ready. Python and C share the codecs.
 
-🎻 **[BowTrack](https://github.com/wuisabel-gif/BowTrack)**. To fix my own cello bowing, I built a computer-vision tool that reads bowing motion, posture, and early technique signals with OpenCV and MediaPipe.
-
 💬 Everything here is open source, and I'd love to collaborate with anyone who shares the interest and the passion. If you want to fix or extend something, PRs are welcome. Got a specific question or a half-formed idea? Open an issue and let's talk it through.
 
 **Also ongoing**
 
-🌊 Localization, estimation, and mission planning for [**Barracuda 2.0**](https://drive.google.com/file/d/1BrcK6pGdd4CBl9zglACMc6I8wHD-CQNz/view), an autonomous underwater vehicle, with my teammates at [**USC AUV**](https://uscfrl.com).
+🌊 Building localization, state-estimation, and mission-planning systems for [**Barracuda 2.0**](https://drive.google.com/file/d/1BrcK6pGdd4CBl9zglACMc6I8wHD-CQNz/view), an autonomous underwater vehicle developed with my teammates at [**USC AUV**](https://uscfrl.com); developing [**FlashICP**](https://github.com/wuisabel-gif/FlashICP), a CUDA-accelerated point-cloud registration library for underwater robotics; and contributing to [**Rerun**](https://github.com/rerun-io/rerun/pull/12858) by improving error reporting for glTF/GLB models that require unsupported compression extensions.
 
-🚀 Embedded data acquisition, sensor drivers, and high-speed telemetry for rocket testing with my teammates at [**USC Rocket Propulsion Laboratory**](https://www.uscrpl.com/).
+🚀 Developing embedded data-acquisition pipelines, sensor drivers, and high-speed telemetry for rocket avionics with my teammates at [**USC Rocket Propulsion Laboratory**](https://www.uscrpl.com/), while contributing bug fixes, hardware support, and security-library upgrades to the [**Mbed CE ecosystem**](https://github.com/mbed-ce/mbed-os).
 
 🔌 I’m an electronics hobbyist and currently assist with USC’s [**TAC 348: Smart Devices and Wearables**](https://reparke.github.io/TAC348-Making-Smart-Devices/), helping students work through embedded hardware, sensors, circuits, and connected-device projects.
 
