@@ -14,7 +14,7 @@ Most of what I build starts as a problem in my own life. The fix is usually more
 
 **Also ongoing**
 
-🌊 Building localization, state-estimation, and mission-planning systems for [**Barracuda 2.0**](https://drive.google.com/file/d/1BrcK6pGdd4CBl9zglACMc6I8wHD-CQNz/view), an autonomous underwater vehicle developed with my teammates at [**USC AUV**](https://uscfrl.com); developing [**FlashICP**](https://github.com/wuisabel-gif/FlashICP), a CUDA-accelerated point-cloud registration library for underwater robotics; and contributing to [**Rerun**](https://github.com/rerun-io/rerun/pull/12858) by improving error reporting for glTF/GLB models that require unsupported compression extensions.
+🌊 Building localization, state-estimation, and mission-planning systems for [**Barracuda 2.0**](https://drive.google.com/file/d/1BrcK6pGdd4CBl9zglACMc6I8wHD-CQNz/view), an autonomous underwater vehicle developed with my teammates at [**USC AUV**](https://uscfrl.com); developing [**FlashICP**](https://github.com/wuisabel-gif/FlashICP), and [**ThursterHelper**](https://github.com/wuisabel-gif/ThrusterHelper.jl); and contributing to [**Rerun**](https://github.com/rerun-io/rerun/pull/12858) by improving error reporting for glTF/GLB models that require unsupported compression extensions.
 
 🚀 Developing embedded data-acquisition pipelines, sensor drivers, and high-speed telemetry for rocket avionics with my teammates at [**USC Rocket Propulsion Laboratory**](https://www.uscrpl.com/), while contributing bug fixes, hardware support, and security-library upgrades to the [**Mbed CE ecosystem**](https://github.com/mbed-ce/mbed-os).
 
