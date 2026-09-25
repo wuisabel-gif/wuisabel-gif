@@ -4,7 +4,7 @@ Most of what I build starts as a problem in my own life. The fix is usually more
 
 🔬 **Research.** [**CURVE**](https://viterbiundergrad.usc.edu/research/curve/) researcher in RoboLAND at USC, working on how legged robots can feel the ground they walk on.
 
-## Things I built because I needed them
+## Personal Project
 
 🐋 **[MemWhale](https://github.com/wuisabel-gif/MemWhale)**. My coding agents kept forgetting what they'd already learned, so I built a local-first terminal memory system that records what actually happened while you debug and serves it back to any agent over MCP. Nothing leaves your machine. `cargo install memorywhale-cli`
 
@@ -12,7 +12,7 @@ Most of what I build starts as a problem in my own life. The fix is usually more
 
 📡 **[WireDAQ](https://github.com/wuisabel-gif/WireDAQ)**. You shouldn't need the hardware to start. WireDAQ simulates a data-acquisition system end to end so the software and firmware grow against one shared packet contract instead of colliding at bring-up. Python core, C/C++ firmware codec, experimental Rust backend with Lua scenarios, plus **[WireDAQ Health](https://github.com/wuisabel-gif/Wiredaq-health)**, a small Nim CLI for checking live or captured telemetry. [Live demo](https://wuisabel-gif.github.io/WireDAQ/) · `pip install wiredaq`
 
-## Student Lab Involvement
+## Student Lab Involvement & Teaching
 
 🌊 **[USC AUV](https://uscfrl.com).** Building localization, state estimation, and mission planning for [**Barracuda 2.0**](https://drive.google.com/file/d/1BrcK6pGdd4CBl9zglACMc6I8wHD-CQNz/view), our autonomous underwater vehicle. Two tools came out of that work:
 - **[FlashICP](https://github.com/wuisabel-gif/FlashICP)**: CUDA-accelerated point-cloud registration in C++17, heading toward LiDAR odometry on Jetson hardware
@@ -20,7 +20,7 @@ Most of what I build starts as a problem in my own life. The fix is usually more
 
 🚀 **[USC Rocket Propulsion Lab](https://www.uscrpl.com/).** Embedded data-acquisition pipelines, sensor drivers, and high-speed telemetry for rocket avionics.
 
-🔌 **Teaching.** I TA USC's [**TAC 348: Making Smart Devices**](https://reparke.github.io/TAC348-Making-Smart-Devices/), helping students through embedded hardware, sensors, circuits, and connected-device projects.
+🔌 **Teaching.** I am the learning assistant for USC's [**TAC 348: Making Smart Devices**](https://reparke.github.io/TAC348-Making-Smart-Devices/), helping students through embedded hardware, sensors, circuits, and connected-device projects.
 
 ## Upstream
 
