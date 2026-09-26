@@ -4,8 +4,6 @@ Most of what I build starts as a problem in my own life. The fix is usually more
 
 I study Computer Engineering and Computer Science at USC, and I work across the whole stack: robots and embedded firmware at the bottom, GPU and ML infrastructure in the middle, developer tools and games at the top.
 
-**50 merged upstream PRs across 15 projects** · **[MemWhale](https://github.com/wuisabel-gif/MemWhale): 120★** · **Kaggle top 3%** · **7 games you can play in the browser**
-
 **Jump to:** [Robotics](#-robotics--autonomy) · [Embedded](#-embedded--systems) · [GPU & ML](#-gpu-ml--inference) · [Dev Tools](#%EF%B8%8F-developer-tools) · [Games](#-games) · [Upstream](#-upstream)
 
 ---
